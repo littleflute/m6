@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 You Got It.mp3";		
+f[2]	= "02 Only the Lonely.mp3";		
+f[3]	= "03 Love Hurts.mp3";		
+f[4]	= "04 Running Scared.mp3";		
+f[5]	= "05 Crying.mp3";		
+f[6]	= "06 Blue Bayou.mp3";		
+f[7]	= "07 Dream Baby (How Long Music I Dream).mp3";		
+f[8]	= "08 Track 8.mp3";		
+f[9]	= "09 Track 9.mp3";		
+f[10]	= "10 Borne on the Wind.mp3";		
+f[11]	= "11 Track 11.mp3";		
+f[12]	= "12 In Dreams.mp3";		
+f[13]	= "13 It's Over.mp3";		
+f[14]	= "14 Oh, Pretty Woman.mp3";		
