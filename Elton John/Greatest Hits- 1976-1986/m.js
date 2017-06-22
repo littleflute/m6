@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I'm Still Standing.mp3";		
+f[2]	= "02 Mama Can't Buy You Love.mp3";		
+f[3]	= "03 Sorry Seems to Be the Hardest Word.mp3";		
+f[4]	= "04 Little Jeannie.mp3";		
+f[5]	= "05 Blue Eyes.mp3";		
+f[6]	= "06 Don't Go Breaking My Heart.mp3";		
+f[7]	= "07 Empty Garden (Hey, Hey Johnny).mp3";		
+f[8]	= "08 Kiss the Bride.mp3";		
+f[9]	= "09 I Guess That's Why They Call It the Blues.mp3";		
+f[10]	= "10 Who Wears These Shoes-.mp3";		
+f[11]	= "11 Sad Songs (Say So Much).mp3";		
+f[12]	= "12 Wrap Her Up.mp3";		
+f[13]	= "13 Nikita.mp3";		
