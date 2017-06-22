@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Pure Imagination.mp3";		
+f[2]	= "02 We Walk.mp3";		
+f[3]	= "03 The Rainbow Connection.mp3";		
+f[4]	= "04 Little Star.mp3";		
+f[5]	= "05 Sing Along.mp3";		
+f[6]	= "06 Baby Mine.mp3";		
+f[7]	= "07 The 3 R's.mp3";		
+f[8]	= "08 Anchovie.mp3";		
+f[9]	= "09 Life Line.mp3";		
+f[10]	= "10 Gentle Breeze.mp3";		
+f[11]	= "11 Wild, Wild Party in the Loquat Tree.mp3";		
+f[12]	= "12 How to Be Strong.mp3";		
+f[13]	= "13 When You Wish Upon a Star.mp3";		
+f[14]	= "14 Teach Your Children.mp3";		
