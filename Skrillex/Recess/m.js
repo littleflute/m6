@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 All is Fair In Love and Brostep.mp3";		
+f[2]	= "02 Recess.mp3";		
+f[3]	= "03 Stranger.mp3";		
+f[4]	= "04 Try It Out [Neon Mix].mp3";		
+f[5]	= "05 Coast is Clear.mp3";		
+f[6]	= "06 Dirty Vibe.mp3";		
+f[7]	= "07 Ragga Bomb.mp3";		
+f[8]	= "08 Doompy Poomp.mp3";		
+f[9]	= "09 Fuck That.mp3";		
+f[10]	= "10 Ease My Mind.mp3";		
+f[11]	= "11 Fire Away.mp3";		
