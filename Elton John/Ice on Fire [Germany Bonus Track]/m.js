@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 This Town.mp3";		
+f[2]	= "02 Cry to Heaven.mp3";		
+f[3]	= "03 Soul Glove.mp3";		
+f[4]	= "04 Nikita.mp3";		
+f[5]	= "05 Too Young.mp3";		
+f[6]	= "06 Wrap Her Up.mp3";		
+f[7]	= "07 Satellite.mp3";		
+f[8]	= "08 Tell Me What the Papers Say.mp3";		
+f[9]	= "09 Candy by the Pound.mp3";		
+f[10]	= "10 Shoot Down the Moon.mp3";		
+f[11]	= "11 The Man Who Never Died.mp3";		
+f[12]	= "12 Restless [-][Live].mp3";		
+f[13]	= "13 Sorry Seems to Be the Hardest Word [-][Live].mp3";		
+f[14]	= "14 I'm Still Standing [-][Live].mp3";		
